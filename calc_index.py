@@ -33,7 +33,7 @@ for i in range(1, N):
 print(d)
 
 
-df.to_excel(r'C:\Users\winicius.faquieri\Desktop\Winicius\ISSVS\Python\output_2.xlsx')
+df.to_excel(r'path\output_2.xlsx')
 
 
 # In[ ]:
